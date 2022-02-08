@@ -136,11 +136,17 @@ export default {
     font-family: Avenir, Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    text-align: center;
     color: #2c3e50;
     margin-top: 60px;
 }
 pre {
-    background: #ccc;
+    margin-bottom: 15px;
+    text-align: left;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #f1f1f1;
+    font-size: 12px;
+    font-family: "Fira Code", serif;
 }
 </style>
